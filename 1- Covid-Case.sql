@@ -30,7 +30,7 @@ Group by location, population
 Order by percentpopulationinfected desc
 
 
--- LET´S BREAK THINGS DOWN BY CONTINENT
+-- LETÂ´S BREAK THINGS DOWN BY CONTINENT
 Select location, max(cast(total_deaths as int)) as Total_Death_count
 from portfolioproject..coviddeaths
 -- Where location like '%states%'
