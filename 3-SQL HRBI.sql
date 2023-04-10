@@ -1,3 +1,5 @@
+-- https://public.tableau.com/app/profile/juan.diego.figueroa.matuk/viz/HRBIAttritionDashboard/Dashboard1?publish=yes
+
 
 --Is there any relationship between who a person works for and their performance score?
 --What is the overall diversity profile of the organization?
